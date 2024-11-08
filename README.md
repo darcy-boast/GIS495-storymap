@@ -7,7 +7,8 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 
-## Live links (replace with your own)
+## Live links
+- My map link - https://darcy-boast.github.io/GIS495-storymap/
 - Leaflet Map https://mdgaines.github.io/leaflet-storymap-nr491/
 
 ## Create Your Own
