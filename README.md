@@ -3,7 +3,7 @@ Customize your Leaflet story map with linked CSV templates and scrolling narrati
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
 <p align="center">
-  <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="70%" />
+  <img src="./leaflet-storymaps-demo.gif" title="Swine CAFOs and Water Quality in NC" width="70%" />
 </p>
 
 
