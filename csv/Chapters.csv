@@ -1,5 +1,5 @@
 ,Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
 0,Swine CAFOs and Water Quality in NC,,,,This project is…,20,Hidden,,,35.6110506,-78.8475673,,,,
-1,CAFOs,,,,There are 2237 registered swine CAFOs in NC.,5,Hidden,,,35.6110506,-78.8475673,,,geojson/cafos_geo.geojson,fillColor:red;color:black
-2,HUC 03030007,,,,This HUC has a high number of CAFOs,8,Hidden,,,34.8310328,-77.8369679,,,geojson/reproj_cape_fear_HUC8.geojson,fillColor:red;color:black
-3,HUC 03030002,,,,This HUC has a low number of CAFOs. CAFOs are not evenly distributed throughout the state.,8,Hidden,,,36.0275682,-79.37024,,,geojson/reproj_cape_fear_HUC8.geojson,fillColor:red;color:black
+1,CAFOs,,,,There are 2237 registered swine CAFOs in NC.,7,Hidden,,,35.6110506,-78.8475673,,,geojson/cafos_geo.geojson,fillColor:red;color:black
+2,HUC 03030007,,,,This HUC has a high number of CAFOs,9.5,Hidden,,,34.8310328,-77.8369679,,,geojson/reproj_cape_fear_HUC8.geojson,fillColor:red;color:black
+3,HUC 03030002,,,,This HUC has a low number of CAFOs. CAFOs are not evenly distributed throughout the state.,9.5,Hidden,,,36.0275682,-79.37024,,,geojson/reproj_cape_fear_HUC8.geojson,fillColor:red;color:black
